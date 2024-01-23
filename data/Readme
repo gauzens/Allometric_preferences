@@ -1,0 +1,22 @@
+The following datasets are directly extracted from the database:
+
+
+Benthic_Community.csv: data about prey species
+environment.csv: data about environmental conditions
+Fish_Diet.csv: stomach content of fish
+trawlings.csv: trawling (fish sampling) locations and dates
+detection_weigths.csv: correction factor for the detectability of prey in stomachs
+fish_date_aggregation.csv: when two samplings were done at two following dates, considered as one sampling event (reduces the specificity of the communities limiting associated biases).
+
+Script:
+do_connections_between_guts_and_env.R: 
+	- associate the fisch data to the prey data, depending on dates and locations
+	- add information on environmental conditions (temperature)
+	- apply the filter to remove all fishes for which we don't have an estimation of the prey community close enough in time
+
+The script creates the following files:
+
+../generated_files/fish_diet_analyses_31.csv: what is found in stomachs (to estimate realised distributions)
+../generated_files/benthic_for_analyses_31.csv what is found in the environment (to estimate environmental distributions)
+
+

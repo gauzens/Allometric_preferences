@@ -1,0 +1,15 @@
+This folder contains the scripts to analyse and plot the results.
+
+main results on the point estimate for the different distributions (environment, stomach contents and preferences) are associated to the scripts brms_on_env_dist.R, brms_on_realised_dist.R and brms_on_trait_dist.R, respectively.
+
+histogram_for_SI generates the histogrms showing the distribution of fish body length, the matching between Veen grabs and stomach contents, the time differences between fish sampling and benthos sampling. Used also for the data paper. 
+
+estimate_sdn_params.R: Uses the preference distribution to estimate the parameters of the skewed normal distribution that is used in the modelling part.
+
+generate_movement_distributions_SI.R: used to generate the plots of the normal distributions representing handling time (to ask if this is what a reviewer expects).
+
+model_selection_functions.R: used to compare the different models, especially the ones based on fish species information or on fish funcitonal group information.
+
+Fig_xx_GAMs.R and Fig_xx_GAMs_basals.R: scripts used to fit and plot the number of extinctions observed in the different modelling scenarios. 
+
+SI_extincitons.R: plots the results of the sensitivity analysis (on enrichment and  functional response type) for the modeling approach.

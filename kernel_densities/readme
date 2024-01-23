@@ -1,0 +1,3 @@
+04_preferences_empirical.R: Estimate the environmental and stomach distributions to calculate the preference distribution. Detection weigtths are corrected.
+
+04_preferences_empirical_no_weigths.R: Estimate the environmental and stomach distributions to calculate the preference distribution. Detection weigtths not corrected.

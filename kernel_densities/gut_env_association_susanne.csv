@@ -1,0 +1,72 @@
+GUTS,Class,Bivalvia,Bivalvia,Bivalvia,Malacostraca,Malacostraca,Polychaeta,Ophiuroidea,Polychaeta,Polychaeta,Polychaeta
+Abra alba,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Aloidis gibba,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Amphicteis gunneri,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Amphipoda spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Anaitides spp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Anthozoa spp.,Anthozoa,0,0,0,0,0,0,0,0,0,0
+Aphia minuta,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Aphroditidae spp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Arenicola marina,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Ascidiacea spp.,Ascidiacea,0,0,0,0,0,0,0,0,0,0
+Astarte spp.,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Balanus spp.,Hexanauplia,0,0,0,0,0,0,0,0,0,0
+Brada villosa,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Capitella capitata,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Carcinus maenas,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Cardium fasciatum,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Castalia punctata,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Clupea harengus,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Clupeidae spp. Reste,NA,0,0,0,0,0,0,0,0,0,0
+Corophium spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Crangon crangon,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Cumacea spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Mysidacea spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Cyprina islandica,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Diastylis rathkei,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Disoma multisectosum,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Euchone papillosa,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Fish offal (Fischereireste),NA,0,0,0,0,0,0,0,0,0,0
+Gastosaccus spinifer,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Gobiidae spp.,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Halicryptus spinolosus,Halicryptomorpha,0,0,0,0,0,0,0,0,0,0
+Harmothoe imbricata,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Harmothoe spp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Hyperia galba,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Idothea spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Isopoda spp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Limanda limanda,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Macoma spp.,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Metridium senile,Anthozoa,0,0,0,0,0,0,0,0,0,0
+Microdeutopus sp.,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Musculus spp.,Bivalvia,1,1,1,0,0,0,0,0,0,0
+"Mya truncata, Mya arenaria",Bivalvia,1,1,1,0,0,0,0,0,0,0
+Mysis mixta,Malacostraca,0,0,0,1,1,0,0,0,0,0
+Mytilus edulis,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Nemertea spp.,Nemertea,0,0,0,0,0,1,0,1,1,1
+Nephthys spp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+"Not animals, div.",NA,0,0,0,0,0,0,0,0,0,0
+Nucula nitida,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Ophiura albida,Ophiuroidea,0,0,0,0,0,0,1,0,0,0
+Other Decapoda,Decapoda,0,0,0,1,1,0,0,0,0,0
+Other Gastropoda,Gastropoda,0,0,0,0,0,0,0,0,0,0
+Other Polychaeta ,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Pectinaria koreni,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Phaxas pellucidus,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Pherusa plumosa,Polychaeta,0,0,0,0,0,1,0,1,1,1
+"Phtisica marina, Caprella",Malacostraca,0,0,0,1,1,0,0,0,0,0
+Pisces spp.,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Pleuronectiformes spp.,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Polydora sp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Pomatoschistus minutus,Actinopterygii ,0,0,0,0,0,0,0,0,0,0
+Priapulus caudatus,Priapulida,0,0,0,0,0,0,0,0,0,0
+Saxicava arctica,Bivalvia,1,1,1,0,0,0,0,0,0,0
+Scoloplos armiger,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Siphons,NA,0,0,0,0,0,0,0,0,0,0
+Spionidae spp.,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Terebellides stroemi,Polychaeta,0,0,0,0,0,1,0,1,1,1
+Thyonidium pellucidum,Holothuroidea,0,0,0,0,0,0,0,0,0,0
+Unidentified crustacean remains,NA,0,0,0,0,0,0,0,0,0,0
+Unidentified Polychaeta remains,NA,0,0,0,0,0,0,0,0,0,0
+Various Bivalvia,NA,1,1,1,0,0,0,0,0,0,0
+Various Groups,NA,1,1,1,0,0,0,0,0,0,0
